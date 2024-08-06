@@ -19,7 +19,7 @@ Se realizo una unión de ambas tablas para resolver las preguntas marcadas en el
 
 ![Union de Tablas](https://github.com/user-attachments/assets/eb156e9a-25e2-467a-b94f-c03697fab48a)
 
-**Imagen 1 ** *Representacion de union  (left join) de la tabla menu_items y order_details*
+**Imagen 1** *Representacion de union  (left join) de la tabla menu_items y order_details*
 
 
 Se relizo un excel para representar graficas con puntos clave para ayudar al gerente a tomar deciciones conforme a la tendencia de los comensales.
