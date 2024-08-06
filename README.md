@@ -12,6 +12,7 @@ El restaurante "Sabores del Mundo" solicita realziar un estudio de la informaci�
 Se cuenta con la siguiente información: 
 
 -Una tabla "menu_items"  que cuenta con 32 productos en su lista para ofrecer al publico.
+
 -Una tabla "order_details" representa las ventas del primer trimestre del año 2023.
 
 
