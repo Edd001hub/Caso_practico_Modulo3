@@ -28,3 +28,6 @@ Se realizo una unión de ambas tablas para resolver las preguntas marcadas en el
 
 Se relizo un excel para representar graficas con puntos clave para ayudar al gerente a tomar deciciones conforme a la tendencia de los comensales.
 
+
+![Excel_restaurante](https://github.com/user-attachments/assets/101a9c9f-2dc0-41bd-a7ed-c15ae42ecced)
+
