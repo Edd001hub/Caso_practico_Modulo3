@@ -12,9 +12,12 @@ El restaurante "Sabores del Mundo" solicita realziar un estudio de la informaci�
 Se cuenta con la siguiente información: 
 
 -Una tabla "menu_items"  que cuenta con 32 productos en su lista para ofrecer al publico.
+![menu_items](https://github.com/user-attachments/assets/fbd352fc-9d00-4521-9188-d444d19f6763)
+
 
 -Una tabla "order_details" representa las ventas del primer trimestre del año 2023.
 
+![order_details](https://github.com/user-attachments/assets/5107614d-90ef-4ed3-9727-93974737da72)
 
 Se realizo una unión de ambas tablas para resolver las preguntas marcadas en el ejercicio
 
